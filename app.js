@@ -20,3 +20,4 @@ function polindrom (str){
 }
 
 console.log(polindrom(str1))
+console.log('working')
